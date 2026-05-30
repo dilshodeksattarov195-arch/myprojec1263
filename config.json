@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchralidate",
+        "uuid": 11589288,
+        "checksum": "fc5cr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
